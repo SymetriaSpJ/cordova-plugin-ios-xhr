@@ -15,7 +15,7 @@
 
 > Install latest release
 
-     cordova plugin add @globules-io/cordova-plugin-ios-xhr
+     cordova plugin add cordova-plugin-ios-xhr
      
 > Or install from github master
 
@@ -23,7 +23,7 @@
      
 ### Uninstall
 
-     cordova plugin rm @globules-io/cordova-plugin-ios-xhr
+     cordova plugin rm cordova-plugin-ios-xhr
      
 ### Preferences
 
